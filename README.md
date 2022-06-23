@@ -1,4 +1,4 @@
-h1 align="center">Hi , I'm Dennis Mutai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Dennis Mutai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=Front+End+Developer;Python+Programmer%20|%20UI+Designer%20;Content%20Creator%20|+Blogger&center=true&width=500&height=50"></a>
 </p>
