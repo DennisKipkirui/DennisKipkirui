@@ -17,7 +17,8 @@ He like to **create and contribute** to open source projects. In his free time, 
 
 ## Languages and tools  </>
   
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django?style=plastic)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
