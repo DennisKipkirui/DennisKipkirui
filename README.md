@@ -37,8 +37,6 @@ Here are some ideas about Me;
 - 💬 Ask me about ...
 - 😄 Pronouns: **He/Him
 - ⚡ Fun fact: **A runner/Athlete
--->
-
 ---
 
 ## Let's Connect
