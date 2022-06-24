@@ -44,6 +44,7 @@ Here are some ideas about Me;
 
 **Reach me out📫** : kipkiruimutai33@gmail.com
 
+https://calendly.com/kipkiruimutai33/discovery-call
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics
