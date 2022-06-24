@@ -33,10 +33,6 @@ Here are some ideas about Me;
 - 🌱 I’m currently learning **Python
 - 👯 I’m looking to collaborate on **Open-source,Coding spaces,Hackathons and Tech discusions
 - 🤔 I’m looking for help with **Work opportunities,Sponsorships,Internships,Training bootcamps/programs
-- 💬 Ask me about ...
-- 😄 Pronouns: **He/Him
-- ⚡ Fun fact: **A runner/Athlete
----
 
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-mutai-864a43204) 
