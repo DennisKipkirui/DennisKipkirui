@@ -39,10 +39,8 @@ Here are some ideas about Me;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-mutai-864a43204) 
 
 Portfolio:https://denniskipkirui.github.io/Portfolio/
-**Reach me out📫** : kipkiruimutai33@gmail.com
 
-https://calendly.com/kipkiruimutai33/discovery-call
----
+**Reach me out📫** : kipkiruimutai33@gmail.com
 
 ### ⚙️ &nbsp;GitHub Analytics
 
