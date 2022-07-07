@@ -40,7 +40,7 @@ Here are some ideas about Me;
 
 ## Portfolio:https://denniskipkirui.github.io/Portfolio/
 
-**Reach me out📫** : kipkiruimutai33@gmail.com
+## Reach me out📫** : kipkiruimutai33@gmail.com
 
 ### ⚙️ &nbsp;GitHub Analytics
 
