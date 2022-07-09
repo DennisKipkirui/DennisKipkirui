@@ -9,10 +9,10 @@ He is passionate about **open-source, Coding, and web technologies**.
 He like to **create and contribute** to open source projects. In his free time, He do **content creation/blogging** and share my learnings to world.
 
 ### I'm open to:
-- Sponsorships 
-- Work oppurtunities
-- Collaborations for projects
-- Developer advocacy oppurtunities 
+- **Sponsorships 
+- **Work oppurtunities
+- **Collaborations for projects
+- **Developer advocacy oppurtunities 
 ---
 
 ## Languages and tools  </>
@@ -38,8 +38,7 @@ Here are some ideas about Me;
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-mutai-864a43204) 
 
-## Portfolio:https://denniskipkirui.github.io/Portfolio/
-
+<!-- ## Portfolio:https://denniskipkirui.github.io/Portfolio/ -->
 ## Reach me out📫** : kipkiruimutai33@gmail.com
 
 ### ⚙️ &nbsp;GitHub Analytics
