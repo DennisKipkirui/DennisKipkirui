@@ -36,6 +36,9 @@ Here are some ideas about Me;
 
 ## Let's Connect
 
+<a class="social-icon" href="https://twitter.com/?logout=1650291511441" target="_blank"> 
+        <ion-icon name="logo-twitter"></ion-icon>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-mutai-864a43204) 
 
 <!-- ## Portfolio:https://denniskipkirui.github.io/Portfolio/ -->
