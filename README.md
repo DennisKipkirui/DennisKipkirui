@@ -9,10 +9,10 @@ He is passionate about **open-source, Coding, and web technologies**.
 He like to **create and contribute** to open source projects. In his free time, He do **content creation/blogging** and share my learnings to world.
 
 ### I'm open to:
-- **Sponsorships 
-- **Work oppurtunities
-- **Collaborations for projects
-- **Developer advocacy oppurtunities 
+- **Sponsorships**
+- **Work oppurtunities**
+- **Collaborations for projects**
+- **Developer advocacy oppurtunities** 
 ---
 
 ## Languages and tools  </>
