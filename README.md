@@ -35,8 +35,8 @@ He like to **create and contribute** to open source projects. In his free time, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-mutai-864a43204) 
 
-<!-- ## Portfolio:https://denniskipkirui.github.io/Portfolio/ -->
- email: <a href="mailto:kipkiruimutai33@gmailcom"> mail📪</a>
+
+ ## INBOX : <a href="mailto:kipkiruimutai33@gmailcom"> mail📪</a>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
