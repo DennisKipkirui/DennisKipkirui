@@ -1,12 +1,12 @@
-<h1 align="center">Hi , I'm Dennis Mutai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello World , I'm Dennis Mutai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=Web+Developer;Web+Explorer%20|%20UI+Designer%20;Content%20Creator%20|+Blogger&center=true&width=500&height=50"></a>
 </p>
 
 
 Mutai is a **Web Developer** based in Nairobi,Kenya.&nbsp;
-He is passionate about **open-source, Coding, and web technologies**.
-He like to **create and contribute** to open source projects. In his free time, He do **content creation/blogging** and share my learnings to world.
+Passionate about **open-source, Coding, and Advancing Tech Knowledge**.
+In his free time, He do **content creation/blogging** and share my learnings to world.
 
 ### I'm open to:
 - **Sponsorships**
