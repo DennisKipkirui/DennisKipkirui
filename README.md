@@ -28,12 +28,6 @@ He like to **create and contribute** to open source projects. In his free time, 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 </div>     
 
-Here are some ideas about Me;
-- 🔭 I’m currently working on **Blog-writing,Blog development**
-- 🌱 I’m currently learning **Python**
-- 👯 I’m looking to collaborate on **Open-source,Coding spaces,Hackathons and Tech discusions**
-- 🤔 I’m looking for help with **Work opportunities,Sponsorships,Internships,Training bootcamps/programs**
-
 ## Let's Connect
 
 <a class="social-icon" href="https://twitter.com/?logout=1650291511441" target="_blank"> 
