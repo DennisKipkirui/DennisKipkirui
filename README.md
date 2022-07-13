@@ -34,8 +34,6 @@ In his free time, He do **content creation/blogging** and share my learnings to 
         <ion-icon name="logo-twitter"></ion-icon>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-mutai-864a43204) 
-
- <a href="https://www.linkedin.com/in/dennis-mutai-864a43204">Linkedin</a>
   
  ## INBOX : <a href="mailto:kipkiruimutai33@gmailcom"> Email📪</a>
 
