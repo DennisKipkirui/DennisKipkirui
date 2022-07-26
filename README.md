@@ -30,13 +30,8 @@ In his free time, He do **content creation/blogging** and share my learnings to 
 
 ## Let's Connect
 
-<a class="social-icon" href="https://twitter.com/?logout=1650291511441" target="_blank"> 
-        <ion-icon name="logo-twitter"></ion-icon>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-mutai-864a43204) 
   
- ## INBOX : <a href="mailto:kipkiruimutai33@gmailcom"> Email📪</a>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thegeekyb0y&theme=algolia&hide_border=false) 
