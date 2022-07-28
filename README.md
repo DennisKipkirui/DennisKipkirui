@@ -6,7 +6,7 @@
 
 Mutai is a **Web Developer** based in Nairobi,Kenya.&nbsp;
 Passionate about **open-source, Coding, and Advancing Tech Knowledge**.
-In his free time, He do **content creation/blogging** and share my learnings to world.
+In his free time, He does **content creation/blogging** and share my learnings to world.
 
 ### I'm open to:
 - **Sponsorships**
