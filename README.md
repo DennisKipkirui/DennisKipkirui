@@ -10,9 +10,9 @@ In his free time, He does **content creation/blogging** and share my learnings t
 
 ### I'm open to:
 - **Sponsorships**
-- **Work oppurtunities**
+- **Work opportunities**
 - **Collaborations for projects**
-- **Developer advocacy oppurtunities** 
+- **Developer advocacy opportunities** 
 ---
 
 ## Languages and tools  </>
